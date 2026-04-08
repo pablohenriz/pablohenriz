@@ -1,26 +1,28 @@
 # 🧑‍💻 Pablo Henrique
 
-<p align="left">
-  Eu me chama Pablo Henrique,sou desenvolveder front-end,fiz arquitetura de sistemas e segurança da informação e atualmente estou focado em backend e banco de dados.
-</p>
+**`Front-end Developer | Linux Enthusiast | Back-end Explorer`**
 
-## 🧰 Tech Stack:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40" />&nbsp;
-</p>
+I'm a Front-end developer, Linux distro hopper, and currently expanding my horizons into the Back-end world. I love automating my workflow and exploring the depths of the terminal.
 
-## 📊 Performance & Statistics:
+---
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pablohenriz&theme=blue_navy&show_icons=true&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablohenriz&show_icons=true&theme=blue_navy&layout=compact&hide_border=true" />
-</div>
+### 🧰 Languages and Tools
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🐧 Linux & Automation
+- 🛠️ Currently building scripts to automate my development environment.
+- 🚀 Exploring different distros to find the perfect balance between performance and customization.
+- 🐚 Terminal-first workflow advocate.
+
+---
 
 ## 📞 Connect with the Mastermind:
 
