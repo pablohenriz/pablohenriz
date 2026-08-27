@@ -1,25 +1,42 @@
-# 🧑‍💻 Pablo Henrique
+<h1 align="center">🧑‍💻 Pablo Henrique</h1>
 
-**`Front-end Developer | Linux Enthusiast | Back-end Explorer`**
+<h3 align="center">Backend Developer | C# & .NET | Python | SQL</h3>
 
-I'm a Front-end developer, Linux distro hopper, and currently expanding my horizons into the Back-end world. I love automating my workflow and exploring the depths of the terminal.
-
----
-
-### 🧰 Languages and Tools
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+Desenvolvedor backend em formação, com foco em C# e .NET para construção de aplicações e APIs robustas.<br>
+Também trabalho com Python, bancos de dados relacionais e tenho no Linux e no terminal minhas ferramentas do dia a dia.
+</p>
 
 ---
 
-## 📞 Connect with the Mastermind:
+### 🧰 Linguagens & Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js)](https://skillicons.dev)
+
+### 🗄️ Bancos de Dados
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+### 🛠️ Ferramentas & Ambiente
+
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,visualstudio)](https://skillicons.dev)
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pablohenriz&show_icons=true&theme=default&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablohenriz&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 📞 Vamos nos conectar
 
 <p align="left">
   <a href="mailto:phenriquesy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pablo-henrique-706ba7356/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/pablo-henrique-706ba7356/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/1henry.x"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
