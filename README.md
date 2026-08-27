@@ -19,7 +19,7 @@ Também trabalho com Python, bancos de dados relacionais e tenho no Linux e no t
 
 ### 🛠️ Ferramentas & Ambiente
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github)](https://skillicons.dev)
 
 
 ---
