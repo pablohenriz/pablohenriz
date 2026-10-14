@@ -11,7 +11,7 @@ Também trabalho com Python, bancos de dados relacionais e tenho no Linux e no t
 
 ### 🧰 Linguagens & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js,react)](https://skillicons.dev)
 
 ### 🗄️ Bancos de Dados
 
