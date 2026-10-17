@@ -1,6 +1,6 @@
 <h1 align="center">🧑‍💻 Pablo Henrique</h1>
 
-<h3 align="center">Backend Developer | C# & .NET | Python | SQL</h3>
+<h3 align="center">Full-Stack Developer | C# & .NET | Python | SQL</h3>
 
 <p align="center">
 Desenvolvedor backend em formação, com foco em C# e .NET para construção de aplicações e APIs robustas.<br>
