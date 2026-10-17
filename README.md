@@ -3,8 +3,7 @@
 <h3 align="center">Full-Stack Developer | C# & .NET | Python | SQL</h3>
 
 <p align="center">
-Desenvolvedor backend em formação, com foco em C# e .NET para construção de aplicações e APIs robustas.<br>
-Também trabalho com Python, bancos de dados relacionais e tenho no Linux e no terminal minhas ferramentas do dia a dia.
+Desenvolvedor Full-Stack em formação (Técnico em Informática, Senac SP). Construo APIs REST com C# e .NET e interfaces web com React, usando Clean Architecture e Git. Também trabalho com Python, bancos relacionais e Linux no dia a dia.
 </p>
 
 ---
