@@ -1,16 +1,21 @@
 <h1 align="center">🧑‍💻 Pablo Henrique</h1>
 
-<h3 align="center">Full-Stack Developer | C# & .NET | Python | SQL</h3>
+<h3 align="center">Backend Developer | C# & .NET | Python | SQL</h3>
 
 <p align="center">
-Desenvolvedor Full-Stack em formação (Técnico em Informática, Senac SP). Construo APIs REST com C# e .NET e interfaces web com React, usando Clean Architecture e Git. Também trabalho com Python, bancos relacionais e Linux no dia a dia.
+Desenvolvedor Backend em formação (Técnico em Informática, Senac SP). Meu foco principal é a construção de APIs REST com C# e .NET, aplicando Clean Architecture e boas práticas com Git. Também trabalho com Python, bancos de dados relacionais e Linux no dia a dia. Além disso, possuo conhecimentos em Front-end (HTML, CSS e JS), o que me proporciona uma visão completa e integrada do desenvolvimento de software.
 </p>
 
 ---
 
-### 🧰 Linguagens & Frameworks
+### 🧰 Foco Principal: Backend
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py)](https://skillicons.dev)
+
+### 🎨 Conhecimentos Complementares: Front-end
+*(Capacidade de integração e visão Full-Stack)*
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ### 🗄️ Bancos de Dados
 
@@ -18,8 +23,7 @@ Desenvolvedor Full-Stack em formação (Técnico em Informática, Senac SP). Con
 
 ### 🛠️ Ferramentas & Ambiente
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,docker)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,docker,bash)](https://skillicons.dev)
 
 ---
 
