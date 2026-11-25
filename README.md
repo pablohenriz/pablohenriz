@@ -10,7 +10,7 @@ Desenvolvedor Full-Stack em formação (Técnico em Informática, Senac SP). Con
 
 ### 🧰 Linguagens & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js)](https://skillicons.dev)
 
 ### 🗄️ Bancos de Dados
 
